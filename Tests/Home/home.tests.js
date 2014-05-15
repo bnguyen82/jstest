@@ -14,6 +14,6 @@ describe('MainCtrl', function(){
     }));
     // tests start here
     it('should have variable text = "Hello World!"', function(){
-        expect(scope.text).toBe('Hello World!);
+        expect(scope.text).toBe('Hello World!');
     });
 });
